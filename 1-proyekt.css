@@ -1,0 +1,551 @@
+body {
+  overflow: scroll;
+}
+
+.navbar1 {
+  display: flex;
+  align-items: center;
+  widows: 100%;
+  height: 70px;
+  border: 1px solid grey;
+  background-color: rgb(39, 35, 35);
+}
+
+.text111 {
+  position: relative;
+  left: 100px;
+  color: white;
+}
+
+select {
+  position: relative;
+  left: 170px;
+  background-color: rgb(101, 97, 97);
+  width: 400px;
+  height: 40px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.Contine {
+  position: relative;
+  left: 180px;
+  background-color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+h3 {
+  position: relative;
+  bottom: 8px;
+}
+
+.iks {
+  position: relative;
+  left: 190px;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(19, 16, 16);
+}
+
+.icon-apple {
+  position: relative;
+  right: 20px;
+  top: 0px;
+  color: white;
+  font-size: 20px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 0px;
+  gap: 25px;
+}
+
+.a1:hover {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.search {
+  position: relative;
+  left: 15px;
+}
+
+.bag {
+  position: relative;
+  left: 60px;
+}
+
+.rasm-iphone {
+  width: 100%;
+  height: 600px;
+  border: 1px solid grey;
+  background-image: url(./Iphone15.png);
+  background-size: cover;
+}
+
+.iphone-text {
+  position: relative;
+  top: 5px;
+  left: 500px;
+  color: white;
+  font-size: 30px;
+}
+
+.iphone-text2 {
+  color: white;
+  position: relative;
+  left: 460px;
+  font-size: 20px;
+  bottom: 40px;
+}
+
+.iphone-link1 {
+  position: relative;
+  left: 500px;
+  font-size: 20px;
+}
+
+.oo {
+  position: relative;
+  bottom: 30px;
+  color: rgb(21, 21, 202);
+  font-size: 25px;
+}
+
+.iphone-link2 {
+  position: relative;
+  left: 730px;
+  font-size: 20px;
+  bottom: 58px;
+}
+
+.ooo {
+  position: relative;
+  bottom: 1px;
+  color: rgb(21, 21, 202);
+  font-size: 25px;
+
+}
+
+.rasm2 {
+  width: 100%;
+  height: 600px;
+  border: 1px solid grey;
+  background-image: url(./Iphone15.png);
+  background-size: cover;
+}
+
+.rasm-iphone:hover {
+  cursor: pointer;
+}
+
+.rasm2:hover {
+  cursor: pointer;
+}
+
+.iphone-rasm3:hover {
+  cursor: pointer;
+}
+
+.iphone-text3 {
+  position: relative;
+  bottom: 20px;
+  left: 500px;
+  color: black;
+  font-size: 30px;
+}
+
+.iphone-text4 {
+  color: black;
+  position: relative;
+  left: 400px;
+  font-size: 20px;
+  bottom: 65px;
+}
+
+.bb {
+  position: relative;
+  bottom: 30px;
+  color: rgb(21, 21, 202);
+  font-size: 25px;
+}
+
+.iphone-link3 {
+  position: relative;
+  left: 500px;
+  font-size: 20px;
+  bottom: 30px;
+}
+
+.bbb {
+  position: relative;
+  bottom: 1px;
+  color: rgb(21, 21, 202);
+  font-size: 25px;
+}
+
+.iphone-link4 {
+  position: relative;
+  left: 730px;
+  font-size: 20px;
+  bottom: 87px;
+}
+
+.iphone-rasm3 {
+  width: 100%;
+  height: 600px;
+  border: 1px solid grey;
+  background-image: url(./iwwatch.png);
+  background-size: cover;
+}
+
+.ap {
+  color: white;
+  position: relative;
+  left: 550px;
+  top: 40px;
+  font-size: 50px;
+}
+
+.text12 {
+  color: white;
+  position: relative;
+  left: 600px;
+  top: 0px;
+  bottom: 50px;
+  font-size: 25px;
+}
+
+.watch555 {
+  position: relative;
+  bottom: 54px;
+}
+
+.sereis-9 {
+  position: relative;
+  bottom: 10px;
+
+}
+
+.iphone-text6 {
+  position: relative;
+  bottom: 80px;
+  left: 600px;
+  color: rgb(251, 31, 6);
+  font-size: 12px;
+}
+
+.iphone-text-sss {
+  color: white;
+  position: relative;
+  left: 490px;
+  bottom: 110px;
+}
+
+.iphone-link5 {
+  position: relative;
+  left: 500px;
+  font-size: 20px;
+  bottom: 81px;
+}
+
+.iphone-link6 {
+  position: relative;
+  left: 730px;
+  font-size: 20px;
+  bottom: 140px;
+}
+
+.red {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  border: 1px solid grey;
+}
+
+.Ipad {
+  width: 50%;
+  height: 600px;
+  border: 1px solid grey;
+  background-image: url(./ipaaad.png);
+  background-size: cover;
+
+
+}
+
+.girl {
+  width: 50%;
+  height: 600px;
+  border: 1px solid grey;
+  background-image: url(./visionpro.png);
+  background-size: cover;
+  float: left;
+}
+
+.ipad2 {
+  position: relative;
+  left: 250px;
+  top: 30px;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.ipad3 {
+  position: relative;
+  left: 150px;
+  top: 25px;
+  font-size: 30px;
+}
+
+.iipad4 {
+  position: relative;
+  left: 180px;
+  color: blue;
+  font-size: 25px;
+
+}
+
+.iipad5 {
+  position: relative;
+  left: 355px;
+  color: blue;
+  bottom: 45px;
+  font-size: 25px;
+}
+
+.girl>i {
+  position: relative;
+  font-size: 40px;
+  top: 380px;
+  left: 200px;
+}
+
+.girt {
+  position: relative;
+  font-size: 40px;
+  left: 250px;
+  top: 310px;
+}
+
+.well {
+  position: relative;
+  font-size: 30px;
+  top: 285px;
+  left: 50px;
+}
+
+.Available {
+  position: relative;
+  top: 260px;
+  left: 130px;
+  font-size: 25px;
+}
+
+.gyt {
+  position: relative;
+  color: blue;
+  font-size: 20px;
+  top: 260px;
+  left: 270px;
+}
+
+.macbook {
+  display: flex;
+  width: 100%;
+  height: 400px;
+  border: 1px solid grey;
+}
+
+.mcbook {
+  width: 30%;
+  height: 400px;
+  background-image: url(./mackbook.png);
+  background-size: cover;
+  border: 1px solid grey;
+}
+
+.Pro {
+  width: 40%;
+  height: 400px;
+  background-image: url(./airpods1.jpg);
+  background-size: cover;
+  border: 1px solid grey;
+}
+
+.ip {
+  width: 30%;
+  height: 400px;
+  background-image: url(./plastk.jpg);
+  border: 1px solid grey;
+}
+
+.mcbook>h3 {
+  left: 120px;
+}
+
+.mcbook>p {
+  position: relative;
+  left: 80px;
+  bottom: 20px;
+}
+
+.blu {
+  color: blue;
+  position: relative;
+  left: 120px;
+  bottom: 25px;
+}
+
+.rel {
+  position: relative;
+  left: 130px;
+  bottom: 25px;
+  color: blue;
+}
+
+.ipooo {
+  width: 70%;
+  height: 350px;
+  border: 1px solid grey;
+  background-image: url(./poi.jpg);
+  background-size: cover;
+}
+
+.Pro>h1 {
+  position: relative;
+  left: 180px;
+  bottom: 10px;
+  color: white;
+}
+
+.Pro>p {
+  position: relative;
+  left: 140px;
+  bottom: 28px;
+  font-size: 20px;
+  color: white;
+}
+
+.il {
+  position: relative;
+  left: 140px;
+  bottom: 30px;
+  font-size: 18px;
+  color: blue;
+
+}
+
+.re {
+  position: relative;
+  left: 150px;
+  bottom: 30px;
+  font-size: 18px;
+  color: blue;
+}
+
+.ip>h1 {
+  position: relative;
+  left: 150px;
+  bottom: 30px;
+}
+
+.ip>i {
+  position: relative;
+  font-size: 30px;
+  top: 24px;
+  left: 120px;
+}
+
+.pp {
+  position: relative;
+  bottom: 50px;
+  left: 50px;
+}
+
+.kk {
+  position: relative;
+  bottom: 70px;
+  left: 90px;
+}
+
+.we {
+  position: relative;
+  bottom: 80px;
+  left: 70px;
+  color: blue;
+
+}
+
+.qw {
+  position: relative;
+  left: 80px;
+  bottom: 80px;
+  color: blue;
+}
+
+.hero {
+  width: 100%;
+  height: 600px;
+  border: 1px solid grey;
+  background-image: url(./hero\ rasm.jpg);
+  background-size: cover;
+}
+
+.hero>img {
+  position: relative;
+  right: 120px;
+  bottom: 50px;
+}
+
+.hero>h2 {
+  color: white;
+  position: relative;
+  left: 70px;
+  top: 100px;
+}
+
+.boi {
+  color: white;
+  position: relative;
+  bottom: 130px;
+  left: 120px;
+}
+
+.loy>a {
+  color: rgb(251, 251, 252);
+  position: relative;
+  left: 120px;
+  bottom: 140px;
+}
+
+.loy>i {
+  color: white;
+  position: relative;
+  bottom: 140px;
+  left: 120px;
+  font-size: 20px;
+}
